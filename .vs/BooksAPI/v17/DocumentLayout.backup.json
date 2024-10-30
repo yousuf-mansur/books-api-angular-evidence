@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\BooksAPI\\",
+  "WorkspaceRootPath": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|c:\\users\\hp\\desktop\\booksapi\\booksapi\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|d:\\isdb-bisew\\gitproject\\angularexam\\booksapi\\booksapi\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|c:\\users\\hp\\desktop\\booksapi\\booksapi\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|d:\\isdb-bisew\\gitproject\\angularexam\\booksapi\\booksapi\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|c:\\users\\hp\\desktop\\booksapi\\booksapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|d:\\isdb-bisew\\gitproject\\angularexam\\booksapi\\booksapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|c:\\users\\hp\\desktop\\booksapi\\booksapi\\controllers\\bookcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|d:\\isdb-bisew\\gitproject\\angularexam\\booksapi\\booksapi\\controllers\\bookcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\controllers\\bookcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|c:\\users\\hp\\desktop\\booksapi\\booksapi\\booksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|d:\\isdb-bisew\\gitproject\\angularexam\\booksapi\\booksapi\\booksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\booksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|c:\\users\\hp\\desktop\\booksapi\\booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|d:\\isdb-bisew\\gitproject\\angularexam\\booksapi\\booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|c:\\users\\hp\\desktop\\booksapi\\booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|d:\\isdb-bisew\\gitproject\\angularexam\\booksapi\\booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F288F115-C2F7-4203-88CD-CA317799E9D8}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BookDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\Data\\BookDbContext.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\Data\\BookDbContext.cs",
               "RelativeDocumentMoniker": "BooksAPI\\Data\\BookDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\Data\\BookDbContext.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\Data\\BookDbContext.cs",
               "RelativeToolTip": "BooksAPI\\Data\\BookDbContext.cs",
               "ViewState": "AgIAAFkBAAAAAAAAAAAAAGIBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,79 +69,73 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BookCategory.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\Models\\BookCategory.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\Models\\BookCategory.cs",
               "RelativeDocumentMoniker": "BooksAPI\\Models\\BookCategory.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\Models\\BookCategory.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\Models\\BookCategory.cs",
               "RelativeToolTip": "BooksAPI\\Models\\BookCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T19:20:11.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T19:20:11.958Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\Models\\Book.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\Models\\Book.cs",
               "RelativeDocumentMoniker": "BooksAPI\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\Models\\Book.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\Models\\Book.cs",
               "RelativeToolTip": "BooksAPI\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T19:20:08.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T19:20:08.527Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BookCategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\Controllers\\BookCategoriesController.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\Controllers\\BookCategoriesController.cs",
               "RelativeDocumentMoniker": "BooksAPI\\Controllers\\BookCategoriesController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\Controllers\\BookCategoriesController.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\Controllers\\BookCategoriesController.cs",
               "RelativeToolTip": "BooksAPI\\Controllers\\BookCategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T19:19:56.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T19:19:56.752Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BooksAPI",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+              "Title": "BooksAPI.csproj",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
               "RelativeDocumentMoniker": "BooksAPI\\BooksAPI.csproj",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
               "RelativeToolTip": "BooksAPI\\BooksAPI.csproj",
               "ViewState": "AgIAABAAAAAAAAAAAAAIwBkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-28T19:18:59.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T19:18:59.397Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\Program.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\Program.cs",
               "RelativeDocumentMoniker": "BooksAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\Program.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\Program.cs",
               "RelativeToolTip": "BooksAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T19:18:41.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T19:18:41.05Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\appsettings.json",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\appsettings.json",
               "RelativeDocumentMoniker": "BooksAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\appsettings.json",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\appsettings.json",
               "RelativeToolTip": "BooksAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-28T19:18:18.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T19:18:18.894Z"
             }
           ]
         }

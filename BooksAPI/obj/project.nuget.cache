@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AzQr8wM0mIM=",
+  "dgSpecHash": "2dDP0E+sKas=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+  "projectFilePath": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

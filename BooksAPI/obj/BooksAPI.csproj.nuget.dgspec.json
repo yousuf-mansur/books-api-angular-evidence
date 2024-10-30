@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\BooksAPI.csproj": {}
+    "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\BooksAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\BooksAPI.csproj": {
+    "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\BooksAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+        "projectUniqueName": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
         "projectName": "BooksAPI",
-        "projectPath": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+        "projectPath": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\obj\\",
+        "outputPath": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

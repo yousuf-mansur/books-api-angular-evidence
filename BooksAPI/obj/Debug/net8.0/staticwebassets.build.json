@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+5HptCmTBmJM8ZNKmbL+sLSIYsH01R38KvLZ3AV96lk=",
+  "Hash": "sQl9x+isVkZ10v032YQk6d6shpTxIR28K3PUxvn06Dg=",
   "Source": "BooksAPI",
   "BasePath": "_content/BooksAPI",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.10\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BooksAPI.styles.css",
+      "Identity": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BooksAPI.styles.css",
       "SourceId": "BooksAPI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BooksAPI",
       "RelativePath": "BooksAPI.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\BooksAPI\\BooksAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BooksAPI.styles.css"
+      "OriginalItemSpec": "D:\\IsDB-BISEW\\GitProject\\AngularExam\\BooksAPI\\BooksAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BooksAPI.styles.css"
     }
   ]
 }
